@@ -13,24 +13,4 @@ h1  {
 
 }
 
-.cabeçalho_menu-hamburgue {
-    width: 24px;
-    height: 24px;
-    background-image: url(Imagens/Menu.svg);
-    display: inline-block;
-    }
-    
-    .cabeçalho{
-    background-color: var(--branco);
-    display: flex;
-    justify-content: space-between;
 
-    
-@media (max-width: 390px) {
-    .container {
-        display: flex;
-        justify-content: center;
-        margin-top: 20px;
-        
-    }
-}
